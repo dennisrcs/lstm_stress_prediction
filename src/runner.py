@@ -5,7 +5,7 @@ import torch
 from lstmmodel import LSTMModel
 
 # model parameters
-ROOT_DIR = 'C:/Users/silva.dennis/Documents/workplace/'
+ROOT_DIR = ''
 INPUT_SIZE = 52
 OUTPUT_SIZE = 4
 HIDDEN_SIZE = 128
